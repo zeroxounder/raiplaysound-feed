@@ -130,7 +130,8 @@ const podcasts = [
    {
     title: "Riverberi",
     path: "/programmi/riverberi"
-  },{
+  },
+  {
     title: "Radio3 Suite ",
     path: "programmi/radio3suite"
   },
