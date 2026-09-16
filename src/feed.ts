@@ -67,8 +67,8 @@ async function buildFeed(program: string, forceRefresh: boolean = false) {
     language: 'it',
     image: BASE + data.podcast_info.image,
     updated: new Date(),
-    generator: 'https://github.com/giuliomagnifico/raiplaysound-feed',
-    feed: `https://giuliomagnifico.github.io/raiplaysound-feed/rss/${program}.xml`,
+    generator: 'https://github.com/zeroxounder/raiplaysound-feed',
+    feed: `https://zeroxounder.github.io/raiplaysound-feed/rss/${program}.xml`,
     podcast: true
   })
 
