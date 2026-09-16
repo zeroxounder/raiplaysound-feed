@@ -5,13 +5,13 @@
   "keywords": [
     "rss"
   ],
-  "homepage": "https://github.com/giuliomagnifico/raiplaysound-feed#readme",
+  "homepage": "https://github.com/zeroxounder/raiplaysound-feed#readme",
   "bugs": {
-    "url": "https://github.com/giuliomagnifico/raiplaysound-feed/issues"
+    "url": "https://github.com/zeroxounder/raiplaysound-feed/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giuliomagnifico/raiplaysound-feed.git"
+    "url": "git+https://github.com/zeroxounder/raiplaysound-feed.git"
   },
   "license": "GPL-3.0-or-later",
   "author": "frammenti",
